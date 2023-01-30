@@ -1,7 +1,7 @@
 ## Hi, I'm Matheus de Lino 👋 
 I am a full stack developer, passionate about technology and solving real world problems.
 
-I' m currenctly learning more about microservices 👨🏽‍💻
+I' m currenctly learning more about microservices and DevOps tecnologies 👨🏽‍💻
 
 A fun fact **I practice Muay Thay** :boxing_glove:
 
