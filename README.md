@@ -3,7 +3,7 @@ I am a full stack developer, passionate about technology and solving real world 
 
 I' m currenctly learning more about microservices and DevOps tecnologies 👨🏽‍💻
 
-A fun fact **BJJ** 🥋
+A fun fact I practice **BJJ** 🥋
 
 A fun fact **I play guitar** 🎸
 
